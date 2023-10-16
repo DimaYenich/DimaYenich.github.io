@@ -5,4 +5,4 @@
 - Python
 - C#
 >Portfolio  
--[OOP prac](https://github.com/DimaYenich?tab=repositories)
+- [OOP prac](https://github.com/DimaYenich?tab=repositories)
