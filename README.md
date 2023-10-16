@@ -4,4 +4,4 @@
 - HTML
 - Python
 - C#
->[OOP prac](https://github.com/DimaYenich?tab=repositories)
+[OOP prac](https://github.com/DimaYenich?tab=repositories)
